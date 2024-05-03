@@ -1,2 +1,2 @@
 # QQESPM
-This repository contains the source code of a python implementation for the QQESPM algorithm proposed in the paper submitted to [GeoInfo](http://mtc-m16c.sid.inpe.br/ibi/8JMKD3MGPDW34P/4ADE2M8), and fully described in a JIDM scientific paper to be published.
+This repository contains the source code of a python implementation for the QQESPM algorithm proposed in the paper submitted to [GeoInfo](http://mtc-m16c.sid.inpe.br/ibi/8JMKD3MGPDW34P/4ADE2M8), and fully described in a JIDM scientific paper to be published. We used an extract of the OpenStreetMap dataset gathered with the python osmnx library, using the POIs tags amenity,shop and tourism. This extract is within the data/ folder.
